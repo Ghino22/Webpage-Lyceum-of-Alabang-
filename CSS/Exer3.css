@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.logo{
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-top: 25px;
+    padding-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.box1 {
+    height: 100vh;
+    width: 98%;
+}
+
+.main-header{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(237, 159, 13);
+    position: relative;
+
+}
+
+
+
+.banner{
+    height: 350px;
+    width: 98%;
+    background-color: rgb(231, 226, 209);
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 20px solid black(55, 54, 54);
+}
+
+.banner img{
+    height: 290px;
+    width: 98.5%;
+    margin-left: 12px;
+    margin-top: 10px;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    transition: .5s;
+    
+}
+
+li{
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    margin-left: 35px;
+    margin-top: 25px;
+    padding: 3px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.box1{
+    height: 420px;
+    width: 280px;
+    background-color: rgb(232, 214, 155);
+    margin-left: 25px;
+    margin-top: 430px;
+    padding: 9px;
+    position: absolute;
+    border: 1px solid black(55, 54, 54);
+}
+
+.box1 img{
+    height: 300px;
+    width: 260px;
+    padding: 10px;
+    margin-bottom: 3px;  
+}
+
+.box2{
+    height: 420px;
+    width: 280px;
+    background-color: rgb(232, 214, 155);
+    margin-left: 335px;
+    margin-top: 430px;
+    padding: 9px;
+    position: absolute;
+    border: 1px solid black(55, 54, 54);
+}
+
+.box2 img{
+    height: 300px;
+    width: 260px;
+    padding: 10px;
+    margin-bottom: 3px; 
+}
+
+.box3{
+    height: 420px;
+    width: 280px;
+    background-color: rgb(232, 214, 155);
+    margin-left: 650px;
+    margin-top: 430px;
+    padding: 9px;
+    position: absolute;
+    border: 1px solid black(55, 54, 54);
+}
+
+.box3 img{
+    height: 300px;
+    width: 260px;
+    padding: 10px;
+    margin-bottom: 3px; 
+}
+
+.box4 {
+    height: 420px;
+    width: 280px;
+    background-color: rgb(232, 214, 155);
+    margin-left: 965px;
+    margin-top: 430px;
+    padding: 9px;
+    position: absolute;
+    border: 1px solid black(55, 54, 54);
+}
+
+.box4 img{
+    height: 300px;
+    width: 260px;
+    padding: 10px;
+    margin-bottom: 3px; 
+}
+
+.inner-footer{
+    
+    height: 50px;
+    width: 100%;
+    margin-top: 900px;
+    background-color: rgb(193, 185, 185);
+}
+
+.social-link{
+    display: flex;
+}
+
+.social-link ul{
+    display: flex;   
+}
+
+.social-items{
+    list-style: none;
+}
+
+.social-items a{
+    padding: 10px 20px;
+    font-size: 35px;
+    color: #000;
+}
+
+.quick-links ul{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.quick-items{
+    
+    margin-top: 5px;
+}
+
+.quick-items a{
+    text-decoration: none;
+    padding: 0;
+    font-size: 18px;
+    color: white;
+}
+
+.search{
+    float: right;
+    height: 35px;
+    width: 99px;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-right: 20%;
+}
+
+.text1{
+    font-size: 16px;
+}
+
+.text2{
+    font-size: 11px;
+}
+
+.text3{
+    font-size: 11px;
+}
+
+.text4{
+    font-size: 11px;
+}
+
+.text5{
+    font-size: 11px;
+}
+
+.box7{
+    height: 65px;
+    width: 100%;
+    background-color: rgb(231, 226, 209);
+    position: relative;
+    margin-top: 900px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.copy{
+    margin-left: 140px;
+    margin-top: 25px;
+
+}
+
